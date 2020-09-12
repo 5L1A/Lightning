@@ -1,5 +1,3 @@
-Lightning
-=========
 
 int startX = 0;
 int startY = 150;
